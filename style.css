@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+header{
+     display: inline-block;
+     top: 0;
+     left: 0;
+     background-color: #E6FAFF;
+     width: 100%;
+     height: 133px;
+     margin: 0;
+    }
+.logotype{
+     display: flex;
+     justify-content: center;
+     height: 133px;
+}
+.f{
+     display: inline-block;
+     display: flex;
+     justify-content: space-around;
+     align-items: flex-end;
+     background-color: #B4D3DB;
+}
+a{
+     color: #255F76;
+     text-decoration: none;
+     font-family: 'Shadows Into Light Two', cursive;
+     font-size: 20px;
+}
+main{
+     margin: 20px 0px;
+}
+.members{
+     display: flex;
+     justify-content: space-around;
+     display: inline-block;
+     background-color: #A0CCD3;
+     width: 276px;
+     height: 445px;
+     border-radius: 15px;
+     font-family: 'Shadows Into Light Two', cursive;
+
+}
+.about{
+     text-align: center;
+     font-size: 20px;
+}
+footer {
+     width: 1460px;
+     height: 257px;
+    
+     background: #567177;
+}
+.podval{
+     display: inline-block;
+     width: 254px;
+     height: 140px;
+     padding: 0px 80px;
+     font-family: 'Tajawal', sans-serif;
+}
+.album{
+     display: flex;
+     justify-content: space-around;
+     display: inline-block;
+     background-color: #D8EBEE;
+     width: 276px;
+     height: 400px;
+     border-radius: 15px;
+}
+.cont{
+     background-color: #A8C7CE;
+     border-radius: 15px;
+     width: 276px;
+     height: 58px;
+     color: #3B7CDE;
+     font-family: 'Racing Sans One', cursive;  
+}
+h2{
+     text-align: center;
+     padding: 16px;
+     font-size: 24px;
+}
+ul{
+     padding: 0% 6%;
+     font-family: 'Shadows Into Light Two', cursive;
+}
+.track{
+     font-family: 'Shadows Into Light Two', cursive;
+     padding: 0% 0%;
+     font-size: 20px;
+}
+.data{
+     width: 276px;
+     height: 73px;
+     background-color: #A8C7CE;
+     border-radius: 15px;
+     text-align: center;
+     font-size: 20px;
+     font-family: 'Shadows Into Light Two', cursive;
+}
+.spisok{
+     font-size: 10px;
+}
+.sp{
+     padding: 0% 10%;
+     font-size: 25px;
+}
+#spis{
+     font-size: 20px;
+     padding: 0% 10%;
+}
+.groups{
+     color: #190A71;
+     font-family: 'Racing Sans One', cursive;  
+     font-weight: 400
+}
+.tovar{
+     width: 276px;
+     height: 429px;
+     background-color: #CEEAEC;
+     border-radius: 15px;
+     display: inline-block;
+}
+
+.otov{
+     text-align: center;
+     font-family: 'Tajawal', sans-serif;
+     font-weight: 400;
+     font-size: 25px;
+     padding: 0%;
+     margin: 6px;
+}
+.cena{
+     font-family: 'Tajawal', sans-serif;
+     font-weight: 400;
+     margin: 6px;
+     font-size: 20px;
+     position: relative;
+     left: 145px;
+     top: 60px;
+}
+#who{
+     border-radius: 15px;
+}
+
